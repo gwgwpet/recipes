@@ -1,0 +1,32 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    font-family: cursive;
+    font-size: small;
+    background-color: bisque;
+    background-image: url('1843882.png');
+  }
+  .content {
+    background-color: transparent;
+    padding-top: 36px;
+    padding-left: 0px;
+    text-align: center;
+  }
+
+  a {
+    color: rgb(190, 190, 190);
+    text-decoration: none;
+    font-size: medium;
+  }
+  a:visited{
+    color: rgb(255, 255, 255);
+  }
+
+  ul,li{
+    list-style-type:square
+  }
+  
+  h1 {
+    background: bisque;
+    border: 1px solid rgb(0, 0, 0);
+  }
